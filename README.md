@@ -1,4 +1,6 @@
 risk_management
 ===============
 
-IT Risk Management tools
+This repository contains a set of IT Risk Management tools
+
+* FMEA assessment.xls - MS Excel spreadsheet with template to perform FMEA IT risk assessment
