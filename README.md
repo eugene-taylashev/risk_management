@@ -2,8 +2,10 @@ Risk Assessment
 ===============
 
 This repository contains a set of IT Risk Management tools
-* Risk Assessment Simplified.xlsx - MS Excel spreadsheet with template to perform Simple Risk Assessment (see Methodology below)
-* FMEA assessment.xls - MS Excel spreadsheet with template to perform FMEA IT risk assessment
+* [Risk Assessment Simplified.xlsx](https://github.com/eugene-taylashev/risk_management/blob/master/Risk%20Assessment%20Simplified.xlsx) - MS Excel spreadsheet with template to perform Simple Risk Assessment (see Methodology below)
+  * [Risk-Project-Big List Simplified.xlsx](https://github.com/eugene-taylashev/risk_management/blob/master/Risk-Project-Big%20List%20Simplified.xlsx) - Extended list of risks for an IT project for Simple Risk Assessment
+* [FMEA assessment.xls](https://github.com/eugene-taylashev/risk_management/blob/master/FMEA%20assessment%202.xls) - MS Excel spreadsheet with template to perform FMEA IT risk assessment
+* [Risk Assessment Advanced.xlsx](https://github.com/eugene-taylashev/risk_management/blob/master/Risk%20Assessment%20Advanced.xlsx) - MS Excel spreadsheet with template to perform ISO 27005-based Risk Assessment
 
 ## Simple Risk Assessment Methodology
 
