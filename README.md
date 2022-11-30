@@ -7,6 +7,8 @@ This repository contains a set of IT Risk Management tools
 * [FMEA assessment.xls](https://github.com/eugene-taylashev/risk_management/blob/master/FMEA%20assessment%202.xls) - MS Excel spreadsheet with template to perform FMEA IT risk assessment
 * [Risk Assessment Advanced.xlsx](https://github.com/eugene-taylashev/risk_management/blob/master/Risk%20Assessment%20Advanced.xlsx) - MS Excel spreadsheet with template to perform ISO 27005-based Risk Assessment
 
+All files are under the terms of the [MIT License](https://github.com/eugene-taylashev/risk_management/blob/master/license.txt).
+
 ## Simple Risk Assessment Methodology
 
 This is a simple Risk Assessment method also called Brewer-List Approach. This method could be used to perform a quick risk assessment for a project or an initiative.
