@@ -6,8 +6,23 @@ This repository contains a set of IT Risk Management tools
   * [Risk-Project-Big List Simplified.xlsx](https://github.com/eugene-taylashev/risk_management/blob/master/Risk-Project-Big%20List%20Simplified.xlsx) - Extended list of risks for an IT project for Simple Risk Assessment
 * [FMEA assessment.xls](https://github.com/eugene-taylashev/risk_management/blob/master/FMEA%20assessment%202.xls) - MS Excel spreadsheet with template to perform FMEA IT risk assessment
 * [Risk Assessment Advanced.xlsx](https://github.com/eugene-taylashev/risk_management/blob/master/Risk%20Assessment%20Advanced.xlsx) - MS Excel spreadsheet with template to perform ISO 27005-based Risk Assessment
+* [ISO 27001 Statement of Applicability.xlsx](https://github.com/eugene-taylashev/risk_management/blob/master/ISO%2027001%20Statement%20of%20Applicability.xlsx) - MS Excel spreadsheet to assist in achieving and maintaining ISO/IEC 27001:2022 certification (see ISO 27001 SoA below)
 
 All files are under the terms of the [MIT License](https://github.com/eugene-taylashev/risk_management/blob/master/license.txt).
+
+## ISO 27001 SoA
+This Excel spreadsheet is a comprehensive support tool designed to assist in achieving and maintaining ISO/IEC 27001:2022 certification. It provides an integrated view by linking relevant risks, policies, control owners, and Annex A controls to support the justification for inclusion or exclusion of each control.
+
+The tool can be used for multiple purposes, including:
+* **Statement of Applicability (SoA)**: Mapping and rationale for Annex A control applicability.
+* **Risk Register**: Includes a sample risk rating methodology and example entries.
+* **Audit Workpapers**: Sample content provided to guide internal or external audit preparation.
+* **Policy Content Verification**: Cross-checking policies against control requirements.
+* **Glossary of Terms and Definitions**: Includes common terminology used in ISMS documentation.
+* **List of IT Acronyms**: Reference list of typical information security and IT-related acronyms.
+
+This spreadsheet can serve as a central reference for ISMS stakeholders, simplifying compliance tracking and documentation efforts.
+
 
 ## Simple Risk Assessment Methodology
 
